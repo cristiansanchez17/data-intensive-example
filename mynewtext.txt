@@ -1,0 +1,1 @@
+Hello, since there was no file to open, I created a file for you.
